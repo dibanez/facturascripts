@@ -7,6 +7,7 @@
 /node_modules/
 /Plugins/
 /vendor/
+/mysql/
 .DS_Store
 .htaccess
 composer.lock
