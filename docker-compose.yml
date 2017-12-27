@@ -12,7 +12,7 @@ services:
       - MYSQL_PASSWORD=facturascripts
       - MYSQL_DATABASE=facturascripts
   app:
-    image: facturascripts
+    image: dibanez/facturascripts
     ports:
       - 80:80
     volumes:
